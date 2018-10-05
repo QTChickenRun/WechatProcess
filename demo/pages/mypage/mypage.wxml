@@ -1,0 +1,6 @@
+<view class="container">
+<text>Hello my page</text>
+<button type='default' bindtap='anyfunction'>测试</button>
+<text>{{mytext}}</text>
+<text>{{mytext2.num}}</text>
+</view>
